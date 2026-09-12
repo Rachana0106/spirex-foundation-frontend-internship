@@ -166,11 +166,11 @@ A responsive pricing cards section created using **HTML, CSS, and JavaScript** t
 
 ### 💰 Pricing Plans
 
-| Plan             | Monthly | Yearly |
-| ---------------- | ------: | -----: |
-| **Starter**      |    ₹499 |   ₹399 |
-| **Professional** |    ₹999 |   ₹799 |
-| **Premium**      |  ₹1,999 | ₹1,599 |
+| Plan            | Monthly | Yearly |
+| --------------- | ------: | -----: |
+| **Starter**     |    ₹499 |   ₹399 |
+| **Professional**|    ₹999 |   ₹799 |
+| **Premium**     |  ₹1,999 | ₹1,599 |
 
 ### 🔗 Links
 
@@ -228,38 +228,109 @@ https://github.com/Rachana0106/testimonials-section
 
 ---
 
+## Task 7 — Real-Time Currency Converter
+
+### 📌 Description
+
+A dynamic and responsive currency converter web application built using **HTML, CSS, and JavaScript** that fetches live exchange rates via an open exchange rate API to compute instant conversions[cite: 1, 2].
+
+### 🛠️ Technologies Used
+
+* HTML5[cite: 1]
+* CSS3[cite: 1, 3]
+* JavaScript (ES6+ / Fetch API)[cite: 1, 2]
+* ExchangeRate-API
+* Google Fonts[cite: 3]
+
+### ✨ Features
+
+* Real-time exchange rate calculation across major international currencies[cite: 1, 2]
+* Instant currency swap feature[cite: 1, 2]
+* Live conversion rate readout and timestamp of last fetch[cite: 1, 2]
+* Built-in input validation and error feedback states[cite: 1, 2]
+* Dark / Light theme toggle with LocalStorage persistence[cite: 1, 2]
+* Responsive card UI with clean transitions and mobile optimization[cite: 3]
+
+### 🔗 Links
+
+**Live Demo:**
+https://rachana0106.github.io/Currency-Converter/
+
+**Repository:**
+https://github.com/Rachana0106/Currency-Converter
+
+---
+
+## Task 8 — Drag-and-Drop List
+
+### 📌 Description
+
+An interactive task list application developed using **HTML, CSS, and JavaScript** leveraging the native HTML5 Drag and Drop API, allowing users to intuitively reorder tasks with full state persistence[cite: 4, 5].
+
+### 🛠️ Technologies Used
+
+* HTML5 (Native Drag and Drop API)[cite: 4, 5]
+* CSS3[cite: 4, 6]
+* JavaScript (DOM Manipulation & Events)[cite: 4, 5]
+* LocalStorage API
+* Google Fonts[cite: 6]
+
+### ✨ Features
+
+* Fluid drag-and-drop reordering with visual target cues[cite: 5, 6]
+* Dynamic auto-updating two-digit order indices (`01`, `02`, etc.)[cite: 4, 5]
+* LocalStorage integration to save and preserve item order across browser sessions[cite: 5]
+* Reset button to instantly restore the default list arrangement[cite: 4, 5]
+* Dynamic status bar indicating real-time interaction states[cite: 4, 5]
+* Dark / Light mode toggle with saved user preference[cite: 4, 5]
+* Clean, responsive layout adapted for desktop and mobile[cite: 6]
+
+### 🔗 Links
+
+**Live Demo:**
+https://rachana0106.github.io/drag-and-drop-list/
+
+**Repository:**
+https://github.com/Rachana0106/drag-and-drop-list
+
+---
+
 # 📊 Skills Demonstrated
 
 Through these internship tasks, I worked with:
 
 ### 🌐 Frontend Development
 
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Web Design
-* Mobile-first layouts
+* HTML5[cite: 1, 4]
+* CSS3[cite: 1, 4]
+* JavaScript[cite: 1, 4]
+* Responsive Web Design[cite: 3, 6]
+* Mobile-first layouts[cite: 3, 6]
 * CSS Grid
-* Flexbox
-* CSS animations
-* Transitions
-* Interactive UI components
+* Flexbox[cite: 3, 6]
+* CSS animations[cite: 3, 6]
+* Transitions[cite: 3, 6]
+* Interactive UI components[cite: 1, 4]
 * DOM manipulation
 * Event handling
+* Asynchronous Programming & Fetch API[cite: 2]
+* HTML5 Drag and Drop API[cite: 4, 5]
 * Local Storage
 
 ### 🎨 UI / UX
 
-* Modern card-based layouts
-* Responsive navigation
+* Modern card-based layouts[cite: 3, 6]
+* Responsive navigation[cite: 3, 6]
 * Pricing UI
 * Testimonial UI
-* Dark / Light themes
-* Hover interactions
-* Micro-interactions
-* Visual hierarchy
-* Mobile responsiveness
-* Clean and minimal design
+* Data conversion interfaces[cite: 1]
+* Interactive list reordering interfaces[cite: 4]
+* Dark / Light themes[cite: 2, 5]
+* Hover interactions[cite: 3, 6]
+* Micro-interactions[cite: 3, 6]
+* Visual hierarchy[cite: 3, 6]
+* Mobile responsiveness[cite: 3, 6]
+* Clean and minimal design[cite: 3, 6]
 
 ### 🛠️ Tools
 
@@ -267,7 +338,7 @@ Through these internship tasks, I worked with:
 * Git
 * GitHub
 * GitHub Pages
-* Google Fonts
+* Google Fonts[cite: 3, 6]
 * Chrome DevTools
 
 ---
@@ -287,73 +358,11 @@ spirex-foundation-frontend-internship/
 │
 ├── Task-5-Testimonials-Section/
 │
+├── Task-7-Currency-Converter/
+│
+├── Task-8-Drag-and-Drop-List/
+│
 ├── assets/
 │   └── screenshots/
 │
 └── README.md
-```
-
----
-
-# 🎯 Internship Objective
-
-The objective of this internship is to strengthen practical frontend development skills by building responsive, interactive, and user-friendly web interfaces using modern HTML, CSS, and JavaScript techniques.
-
-Throughout the internship, I focused on translating requirements into functional interfaces while improving my understanding of responsive design, UI interactions, JavaScript functionality, and Git/GitHub workflows.
-
----
-
-# 📈 Learning Outcomes
-
-During these tasks, I gained practical experience in:
-
-* Building responsive websites from scratch
-* Creating reusable UI patterns
-* Designing responsive navigation systems
-* Developing pricing interfaces
-* Creating interactive testimonial sliders
-* Implementing dark/light themes
-* Using JavaScript for UI interactions
-* Working with Git and GitHub
-* Deploying websites using GitHub Pages
-* Testing layouts across different screen sizes
-* Organizing frontend projects professionally
-
----
-
-# 👩‍💻 Developer
-
-**Rachana Makwana**
-
-### 🔗 Connect With Me
-
-**GitHub:**
-https://github.com/Rachana0106
-
-**LinkedIn:**
-https://www.linkedin.com/in/rachanamakwana/
-
-**Email:**
-[rachanam0106@gmail.com](mailto:rachanam0106@gmail.com)
-
----
-
-# ⭐ Internship Progress
-
-| Task | Project                   | Status      |
-| ---- | ------------------------- | ----------- |
-| 01   | Personal Portfolio Card   | ✅ Completed |
-| 02   | CV / Resume Card          | ✅ Completed |
-| 03   | Responsive Navigation Bar | ✅ Completed |
-| 04   | Pricing Cards Section     | ✅ Completed |
-| 05   | Testimonials Section      | ✅ Completed |
-
----
-
-## 🚀 Built With
-
-**HTML • CSS • JavaScript • Git • GitHub Pages**
-
----
-
-⭐ **Thank you for visiting my internship project repository!**
